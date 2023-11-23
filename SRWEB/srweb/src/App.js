@@ -1,8 +1,6 @@
 import './App.css';
 import {ButtonAppBar} from './menubar.js';
 import * as React from 'react';
-import {IconMenu} from './menus.js';
-
 
 
 
