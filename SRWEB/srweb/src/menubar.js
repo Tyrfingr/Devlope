@@ -12,8 +12,6 @@ import { makeStyles } from '@mui/material';
 
 
 export function ButtonAppBar() {
-  const [anchorEl, setAnchorEl] = React.useState(null);
-
 
   return (
     <Box sx={{ flexGrow: 1 }}>
