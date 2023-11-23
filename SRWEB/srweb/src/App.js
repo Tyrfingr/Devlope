@@ -1,14 +1,12 @@
-import './App.css';
-import {ButtonAppBar} from './menubar.js';
+import './style/App.css';
 import * as React from 'react';
+import { RouteJs } from './route.js';
 
 
 
 function App() {
   return (
-    <div className="App">
-      <ButtonAppBar/>
-    </div>
+    <RouteJs/>
   );
 }
 
